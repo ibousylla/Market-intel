@@ -1,0 +1,50 @@
+es for wrapping the search box */
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+    margin-top: 20px;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+    margin-top: 20px;
+    
+}
+
+.form-group{
+    margin-left: 305px;
+    margin-right: 305px;
+}
+
+.idi{
+    margin-left: 305px;
+    margin-right: 305px;
+}
+
+footer{
+    background-color: #aaa;
+ padding-top:15px ;
+ padding-bottom: 15px;
+ 
+ position: relative;
+ margin-bottom: 0px;
+   
+}
+
